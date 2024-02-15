@@ -1,0 +1,29 @@
+html {
+  background-color: #00e1ffa4;
+}
+body {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: solid;
+  border-radius: 15px;
+  width: 500px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: cursive;
+}
+h1 {
+  text-decoration: underline;
+}
+h1,
+h2 {
+  font-family: cursive;
+  letter-spacing: 2px;
+}
+a {
+  color: navy;
+}
+a:hover {
+  font-weight: bold;
+}
+.center {
+  text-align: center;
+}
